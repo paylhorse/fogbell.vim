@@ -40,7 +40,7 @@ endfun
 " ==========================
 let s:voidBlack = {'gui': '#121212', 'cterm256': '233'}
 let s:voidBlack2 = {'gui': '#262626', 'cterm256': '235'}
-let s:voidGray1 = {'gui': '#6E685E', 'cterm256': '237'}
+let s:voidGray1 = {'gui': '#423E38', 'cterm256': '237'}
 let s:voidGray2 = {'gui': '#49483E', 'cterm256': '239'}
 let s:voidGray3 = {'gui': '#6B6B6B', 'cterm256': '242'}
 let s:voidGray4 = {'gui': '#B0B0B0', 'cterm256': '249'}
