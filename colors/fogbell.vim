@@ -40,14 +40,14 @@ endfun
 " ==========================
 let s:voidBlack = {'gui': '#121212', 'cterm256': '233'}
 let s:voidBlack2 = {'gui': '#262626', 'cterm256': '235'}
-let s:voidGray1 = {'gui': '#3E3D32', 'cterm256': '237'}
+let s:voidGray1 = {'gui': '#6E685E', 'cterm256': '237'}
 let s:voidGray2 = {'gui': '#49483E', 'cterm256': '239'}
 let s:voidGray3 = {'gui': '#6B6B6B', 'cterm256': '242'}
 let s:voidGray4 = {'gui': '#B0B0B0', 'cterm256': '249'}
 let s:voidSteel = {'gui': '#CCC1B8', 'cterm256': '252'}
 let s:voidBlue = {'gui': '#699B9B', 'cterm256': '109'}
 let s:voidGreen = {'gui': '#569F7A', 'cterm256': '72'}
-let s:voidGold = {'gui': '#8E700B', 'cterm256': '136'}
+let s:voidGold = {'gui': '#CBB97D', 'cterm256': '136'}
 let s:voidRed = {'gui': '#821A1A', 'cterm256': '1'}
 let s:voidRed2 = {'gui': '#FF0000', 'cterm256': '196'}
 let s:none = {'gui': 'NONE', 'cterm256': 'NONE'}
